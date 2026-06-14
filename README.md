@@ -3,6 +3,9 @@
 AI によるテキスト調整機能を備えたリアルタイムメッセージングアプリです。
 Next.js + Firebase + Gemini API で構築されています。
 
+## WebアプリのURL
+https://retone-black.vercel.app
+
 ## 主な機能
 
 - **メール認証** — メールアドレス / パスワードでのサインアップ・ログイン
